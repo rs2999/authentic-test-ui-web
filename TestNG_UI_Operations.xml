@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Authentic WebUI Regression Suite for Operations MF">
+    <test name="Execution for Admin MF UI Scripts" >
+    
+    <classes>
+      <class name="com.ncr.authenticwebui.runner.TestRunnerUI_Operations"/>
+    </classes>
+  </test> 
+</suite> <!-- Default suite -->
+        
+    
+        
+    
